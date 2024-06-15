@@ -815,6 +815,9 @@ body {
 
  /* LAPTOPS DEVICES */
 @media (min-width:1024px) {
+    .hero-wrap {
+        padding-bottom:2rem;
+    }
     /* HERO SECTION */
     .header {  
         flex-direction: row;
