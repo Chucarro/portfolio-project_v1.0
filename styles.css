@@ -816,7 +816,7 @@ body {
  /* LAPTOPS DEVICES */
 @media (min-width:1024px) {
     .hero-wrap {
-        padding-bottom:2rem;
+        padding-bottom:3rem;
     }
     /* HERO SECTION */
     .header {  
@@ -866,6 +866,7 @@ body {
         margin: 0 .2rem 0 2rem;
         justify-content: center;
         align-items: center;
+        padding-bottom:3rem;
     }
     .about__title-main {
         font-size: clamp(3rem,5dvw,6rem);
@@ -999,6 +1000,9 @@ body {
 
     /* DESKTOP DEVICES*/
 @media (min-width:1400px) {
+        .hero-wrap {
+        padding-bottom:4rem;
+    }
     .main__photo-container {
         margin-right: 10rem;
     }
