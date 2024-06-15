@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Inter;
+    src: url("Fonts/Inter-Regular.ttf");
+    font-weight: 500;
+}
+
+
+
+@font-face {
+    font-family: Inter;
+    src: url("Fonts/Inter-Medium.ttf");
+    font-weight: 600;
+}
+
+
+
+@font-face {
+    font-family: Inter;
+    src: url("Fonts/Inter-Bold.ttf");
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: Cascadia;
+    src: url("Fonts/CascadiaCode-SemiBold.ttf");
+    font-weight: 600;
+}
+
+
+
+@font-face {
+    font-family: Cascadia;
+    src: url("Fonts/CascadiaCode-Bold.ttf");
+    font-weight: 800;
+}
